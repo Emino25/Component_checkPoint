@@ -1,0 +1,13 @@
+body{
+  background-color: rgb(225, 229, 250);
+  
+}
+.App{
+  display: flex;
+}
+.profile-picture{
+  width: 150px;
+  height: 200px;
+  margin: 20px;
+  margin-top: 5px;
+}
